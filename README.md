@@ -3,7 +3,8 @@
 The work intend to appropriately segment CT scan images in the COV19-CT-DB database and filter out uppermost and lower most slices of the CT volumetric image before classification. The work aims at improving quantitative results on the given dataset. 
 
 # Images_Preprocessing
-<i> segmentation and cropping.py code uses python open-cv for gussian blurring, cropping and histogram segmentation of medical images. The code is an attempt to segment lung CT scan images.</I>
+<i> segmentation and cropping.py </I> <br/>
+The code uses python open-cv for gussian blurring, cropping and histogram segmentation of medical images. The code is an attempt to segment lung CT scan images.
 
 The original Image looks like:
 <p align="center">
