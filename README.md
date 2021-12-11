@@ -8,7 +8,7 @@ segmentation and cropping.py code uses python open-cv for gussian blurring, crop
 The original Image looks like:
 <p align="center">
   <img src="https://github.com/kenanmorani/Images_Preprocessing/blob/main/FIgures/original.png" /> <br/>
-  Taken from COV19-CT-DB Database 
+  Taken from COV19-CT-DB Database (COVID19 Case)
 </p>      
 <br/>
 
