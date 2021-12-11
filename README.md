@@ -7,13 +7,13 @@ segmentation and cropping.py code uses python open-cv for gussian blurring, crop
 
 The original Image looks like:
 <p align="center">
-  <img src="https://github.com/IDU-CVLab/Images_Preprocessing/blob/main/Figures/cropped%20and%20segmented.png" /> <br/>
+  <img src="https://github.com/IDU-CVLab/Images_Preprocessing/blob/main/Figures/original.png" /> <br/>
   Taken from COV19-CT-DB Database (COVID19 Case)
 </p>      
 <br/>
 
 The resulting image looks as follows:
 <p align="center">
-  <img src="https://github.com/kenanmorani/Images_Preprocessing/blob/main/FIgures/cropped%20and%20segmented.png" />
+  <img src="https://github.com/IDU-CVLab/Images_Preprocessing/blob/main/Figures/cropped%20and%20segmented.png" />
 </p>      
 <br/>
