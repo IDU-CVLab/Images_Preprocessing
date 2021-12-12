@@ -11,7 +11,7 @@ In an attempt to understand how our mode at https://github.com/IDU-CVLab/COV19D/
 <br/>
 
 ### REFERENCES: <br>
-https://stackoverflow.com/questions/66911470/how-to-apply-grad-cam-on-my-trained-model
+https://stackoverflow.com/questions/66911470/how-to-apply-grad-cam-on-my-trained-model {Last Access 13.12.2021}
 
 # Images Preprocessing
 ## 1. segmentation and cropping.py <br/>
