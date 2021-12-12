@@ -11,7 +11,7 @@ In an attempt to understand how our mode at https://github.com/IDU-CVLab/COV19D/
 <br/>
 
 # Images_Preprocessing
-#1. segmentation and cropping.py <br/>
+## 1. segmentation and cropping.py <br/>
 The code uses python open-cv for gussian blurring, cropping and histogram segmentation of medical images. The code is an attempt to segment lung CT scan images.
 
 The original Image looks like:
