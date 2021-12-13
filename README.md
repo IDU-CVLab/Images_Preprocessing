@@ -14,8 +14,8 @@ In an attempt to understand how our mode at https://github.com/IDU-CVLab/COV19D/
 https://stackoverflow.com/questions/66911470/how-to-apply-grad-cam-on-my-trained-model {Last Access 13.12.2021}
 
 # Images Preprocessing
-## 1. segmentation and cropping.py <br/>
-The code uses python open-cv for gussian blurring, cropping and histogram segmentation of medical images. The code is an attempt to segment lung CT scan images.
+## 1. segmentation and cropping <br/>
+The code 'cropping-and-segmentation.py' uses python open-cv for gussian blurring, cropping and histogram segmentation of medical images. The code is an attempt to segment lung CT scan images.
 
 The original Image looks like:
 <p align="center">
