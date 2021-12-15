@@ -1,4 +1,4 @@
-# Image Processing for COV19-CT-DB Database work
+# Visualization and Image Processing for COV19-CT-DB Database Work
 
 The work intends to appropriately segment CT scan images in the COV19-CT-DB database and filter out uppermost and lower most slices of the CT volumetric images before classification. The work aims at improving quantitative results on the given dataset. 
 # Guided GRad-Cam Visualization <br/>
