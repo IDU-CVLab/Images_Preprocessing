@@ -31,9 +31,9 @@ The resulting image looks as follows:
 <br/>
 
 ## 1. Region Of Interest cropping <br/>
-The code is an attempt to crop the right lung from the CT scan image using opencv version 4. The region of interest in the image is as follows: <br/>
+The code is an attempt to crop the right lung from the CT scan image using opencv version 4. The region of interest is represented simply by a static rectangle. The region of interest in the image is shows in the white rectangle (size of 240x157) as follows: <br/>
 <p align="center">
-  <img src="https://github.com/IDU-CVLab/Images_Preprocessing/blob/main/Figures/original.png" /> <br/>
+  <img src="https://github.com/IDU-CVLab/Images_Preprocessing/blob/main/Figures/ROI%20static%20rectangular%20crop.png" /> <br/>
   Taken from COV19-CT-DB Database (COVID19 Case)
 </p>      
 <br/>
