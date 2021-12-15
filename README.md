@@ -10,7 +10,7 @@ In an attempt to understand how our mode at https://github.com/IDU-CVLab/COV19D/
 </p>      
 <br/>
 
-### REFERENCES: <br>
+## REFERENCES: <br>
 https://stackoverflow.com/questions/66911470/how-to-apply-grad-cam-on-my-trained-model {Last Access 13.12.2021}
 
 # Images Preprocessing
@@ -29,7 +29,7 @@ The resulting image looks as follows:
   <img src="https://github.com/IDU-CVLab/Images_Preprocessing/blob/main/Figures/cropped%20and%20segmented.png" />
 </p>      
 <br/>
-#### REFERENCES: <br>
+## REFERENCES: <br>
 https://datacarpentry.org/image-processing/07-thresholding/ {Last Access 15.12.2021}
 
 ## 2. Region Of Interest cropping <br/>
