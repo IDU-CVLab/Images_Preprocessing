@@ -30,7 +30,7 @@ The resulting image looks as follows:
 </p>      
 <br/>
 
-## REFERENCES: <br>
+### REFERENCES: <br>
 https://datacarpentry.org/image-processing/07-thresholding/ {Last Access 15.12.2021}
 
 ## 2. Region Of Interest cropping <br/>
@@ -41,7 +41,7 @@ The code 'Rectangular-cropping.py' is an attempt to achieve high accuracy with a
 </p>      
 <br/>
 
-## REFERENCES: <br>
+### REFERENCES: <br>
 https://docs.opencv.org/4.x/d7/d4d/tutorial_py_thresholding.html Last Access 15.12.2021} <br/>
 https://stackoverflow.com/questions/56467902/select-a-static-roi-on-webcam-video-on-python-opencv Last Access 15.12.2021} <br/>
 https://stackoverflow.com/questions/15341538/numpy-opencv-2-how-do-i-crop-non-rectangular-region Last Access 15.12.2021} <br/>
