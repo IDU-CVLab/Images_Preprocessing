@@ -31,10 +31,13 @@ The resulting image looks as follows:
 <br/>
 
 ## 2. Region Of Interest cropping <br/>
-The code is an attempt to achieve high accuracy with a model by training it on representative images or images with region of interest. with that the CT images were cropped to include the right lung from the CT scan image using opencv version 4. The region of interest is represented simply by a static rectangle. The region of interest in the image is shows in the white rectangle (size of 240x157) as follows: <br/>
+The code 'ROI-right-lung-cropping' is an attempt to achieve high accuracy with a model by training it on representative images or images with region of interest. with that the CT images were cropped to include the right lung from the CT scan image using opencv version 4. The region of interest is represented simply by a static rectangle. The region of interest in the image is shows in the white rectangle (size of 240x157) as follows: <br/>
 <p align="center">
   <img src="https://github.com/IDU-CVLab/Images_Preprocessing/blob/main/Figures/ROI%20static%20rectangular%20crop.png" /> <br/>
   Taken from COV19-CT-DB Database (COVID19 Case)
 </p>      
 <br/>
-
+References: <br/>
+https://docs.opencv.org/4.x/d7/d4d/tutorial_py_thresholding.html <br/>
+https://stackoverflow.com/questions/56467902/select-a-static-roi-on-webcam-video-on-python-opencv <br/>
+https://stackoverflow.com/questions/15341538/numpy-opencv-2-how-do-i-crop-non-rectangular-region <br/>
