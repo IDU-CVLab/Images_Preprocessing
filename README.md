@@ -45,3 +45,8 @@ The code 'Rectangular-cropping.py' is an attempt to achieve high accuracy with a
 https://docs.opencv.org/4.x/d7/d4d/tutorial_py_thresholding.html {Last Access 15.12.2021} <br/>
 https://stackoverflow.com/questions/56467902/select-a-static-roi-on-webcam-video-on-python-opencv {Last Access 15.12.2021} <br/>
 https://stackoverflow.com/questions/15341538/numpy-opencv-2-how-do-i-crop-non-rectangular-region {Last Access 15.12.2021} <br/>
+
+
+## 2. COV19D_CT_images_Processing_Using_Contour_Cropping.ipynb
+In an attempt to segment and highlight region of interests in the images, this code applies a function to crop Region of Interests on the CT images using open-cv. Results of cropping can be seen in the code on one of the CT images- a central slice.
+
