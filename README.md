@@ -26,7 +26,7 @@ The original Image looks like:
 
 The resulting image looks as follows:
 <p align="center">
-  <img src="https://github.com/IDU-CVLab/Images_Preprocessing/blob/main/Figures/cropped%20and%20segmented.png" />
+  <img src="https://github.com/kenanmorani/Images_Preprocessing/blob/main/FIgures/rectangular-cropping.jpg" />
 </p>      
 <br/>
 
