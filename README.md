@@ -23,7 +23,7 @@ The original images look as follows:
 </p>      
 <br/>
 
-The resulting image look as follows:
+The resulting image looks as follows:
 <p align="center">
   <img src="https://github.com/kenanmorani/Images_Preprocessing/blob/main/FIgures/cropped%20and%20segmented.png" />
 </p>      
