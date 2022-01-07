@@ -16,9 +16,16 @@ https://stackoverflow.com/questions/66911470/how-to-apply-grad-cam-on-my-trained
 # Images Preprocessing
 ## 1. segmentation and cropping <br/>
 The code 'cropping-and-segmentation.py' uses python open-cv for gussian blurring, cropping and histogram segmentation of medical images. The code is an attempt to segment lung CT scan images.
-The resulting images look as follows:
+
+The original images look as follows:
 <p align="center">
-  <img src="https://github.com/kenanmorani/Images_Preprocessing/blob/main/FIgures/rectangular-cropping.jpg" />
+  <img src="https://github.com/kenanmorani/Images_Preprocessing/blob/main/FIgures/original.png" />
+</p>      
+<br/>
+
+The resulting image look as follows:
+<p align="center">
+  <img src="https://github.com/kenanmorani/Images_Preprocessing/blob/main/FIgures/cropped%20and%20segmented.png" />
 </p>      
 <br/>
 
