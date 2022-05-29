@@ -33,7 +33,7 @@ The resulting image looks as follows:
 ### REFERENCES: <br>
 https://datacarpentry.org/image-processing/07-thresholding/ {Last Access 15.12.2021}
 
-## 2. Region Of Interest cropping <br/>
+## 2. Region of Interest cropping <br/>
 The code 'Rectangular-cropping.py' is an attempt to achieve high accuracy with a model by training it on representative images or images with region of interest. with that the CT images were cropped to include the left and right lung from the CT scan image using opencv version 4. The region of interest is represented simply by a static rectangle. The region of interest in the image is shown in the white rectangle (size of 227x300) as follows: <br/>
 <p align="center">
   <img src="https://github.com/kenanmorani/Images_Preprocessing/blob/main/FIgures/rectangular-cropping.jpg" /> <br/>
