@@ -51,5 +51,5 @@ https://stackoverflow.com/questions/15341538/numpy-opencv-2-how-do-i-crop-non-re
 The code 'COV19D_CT_images_Processing_Using_Contour_Cropping.ipynb' is an an attempt to segment and highlight region of interests in the images, this code applies a function to crop Region of Interests on the CT images using open-cv. Results of cropping can be seen in the code on one of the CT images- a central slice.
 
 ## 4. Region based Image Segementation
-The code 'Region-Based_Image-Segmentation_full-CT-SCAN.ipynb'. This code used the region based image segmentation method [here](https://github.com/kenanmorani/Images_Preprocessing/blob/main/Region_Based_Segmentation.ipynb) at to be run on full CT scan of nnon-Covid to replace the slices with masks. 
+The code 'Region-Based_Image-Segmentation_full-CT-SCAN.ipynb'. This code used the region based image segmentation method [here](https://github.com/kenanmorani/Images_Preprocessing/blob/main/Region_Based_Segmentation.ipynb) to be run on full CT scan of nnon-Covid to replace the slices with masks. 
 
