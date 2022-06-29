@@ -47,7 +47,7 @@ https://stackoverflow.com/questions/56467902/select-a-static-roi-on-webcam-video
 https://stackoverflow.com/questions/15341538/numpy-opencv-2-how-do-i-crop-non-rectangular-region {Last Access 15.12.2021} <br/>
 
 
-### 3. Countor Images Cropping 
+### 3. Contour Images Cropping 
 The code 'COV19D_CT_images_Processing_Using_Contour_Cropping.ipynb' is an an attempt to segment and highlight region of interests in the images, this code applies a function to crop Region of Interests on the CT images using open-cv. Results of cropping can be seen in the code on one of the CT images- a central slice.
 
 ### 4. Region based Image Segementation
