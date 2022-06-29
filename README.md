@@ -1,5 +1,5 @@
 # Visualization and Image Processing for COV19-CT-DB Database Work
-This resporatory is attached to the COV19D Project. <br/>
+This resporatory is part of the COV19D Project. <br/>
 The work intends to appropriately segment CT scan images in the COV19-CT-DB database and filter out uppermost and lowermost slices of the CT volumetric images before classification. The work aims at improving quantitative results on the given dataset. 
 ## Guided GRad-Cam Visualization <br/>
 The code is "Guided-GRad-Cam.py": <br/>
