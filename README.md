@@ -1,5 +1,5 @@
 # Visualization and Image Processing for COV19-CT-DB Database Work
-This resporatory is part of the [first COV19D Project](https://github.com/IDU-CVLab/COV19D). <br/>
+This repository is part of the [first COV19D Project](https://github.com/IDU-CVLab/COV19D). <br/>
 The work is attempts to Region of Interest (ROI) localization and for CT scan images in the COV19-CT-DB database and filtering out uppermost and lowermost slices of the CT volumetric images before classification. The work aims at improving quantitative results on the given dataset. 
 ## Guided GRad-Cam Visualization <br/>
 The code is "Guided-GRad-Cam.py": <br/>
